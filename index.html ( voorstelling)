@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Voorstelling</title>
+<meta name="viewport" content="width=device=width, initial-scale=1.0">    
+    
+</head>
+<body>
+
+<h1>Ik ben Jamli ismail</h1>
+<p>Ik stel me even voor</p>
+<h2> Inleiding </h2>
+    <img src="hhhh.jpeg" alt="Mountain View" style="width:304px;height:228px;">
+    
+<hr/>
+    <h2>voorstelling</h2>
+    <p>Ik ben jamli ismail en ik woon in Sint-Pieters-leeuw.</p>
+    <p>Dit jaar studeer ik op odisee hoogeschool en volg toegepaste informatica.<br> Vorig jaar heb ik grafische media gevolgd en dit jaar wil ik een nieuwe uitdaging aan.<br> toegepaste informatica sprak mij aan omdat ik graag met programma's bezig houdt.</p>
+    <h2>Hobby's</h2>
+    <p> Mijn hobby is voetbal.<br> ik doe dit in mijn vrije tijd en heb ook in een club gespeeld maar na blessure heb ik besolten om niet meer te voetballen.</p>
+    
+    <img src="hhhh.jpg" alt="voetbal" style="width:304px;height:228px;">
+    
+    
+
+</body>
+</html>
